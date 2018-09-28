@@ -1,0 +1,15 @@
+background(186, 145, 20); // wooden table
+ellipse(200, 200, 350, 350); // plate
+ellipse(200, 200, 300, 300); 
+
+//apple
+strokeWeight(5);
+fill(255, 0, 0);
+ellipse(200, 200, 150, 150);
+
+//apple stem
+line(200, 130, 250, 100);
+
+//leaf
+fill(0, 255, 51);
+ellipse(250, 100, 10,50);
